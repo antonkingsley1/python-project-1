@@ -1,0 +1,77 @@
+[
+    {
+    "question" : "What is sqrt of 100?",
+    "choices" : ["10", "25", "50", "15"],
+    "answer" : "10"
+    },
+    {
+    "question" : "What color is an apple best known for?",
+    "choices" : ["red", "blue", "gold", "silver"],
+    "answer" : "red" 
+    },
+    {
+    "question": "What is the capital city of France?",
+    "choices" : ["London", "Berlin", " Paris", " Madrid"],
+    "answer" : "Paris"
+    },
+    {
+    "question": "How many days are there in a normal year?",
+    "choices": ["300", "350", "360", "365"],
+    "answer": "365"
+    },
+    {
+    "question": "Which animal is known as the \"Ship of the Desert\"?",
+    "choices": ["Elephant", "Camel", "Horse", "Lion"],
+    "answer": "Camel"
+    },
+    {
+    "question": "Which is the largest ocean on Earth?",
+    "choices": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+    },
+    {
+    "question": "What is the color of an emerald?",
+    "choices": ["Red", "Blue", "Yellow", "Green"],
+    "answer": "Green"
+    },
+    {
+    "question": "What is the closest star to Earth?",
+    "choices": ["Sirius", "The Sun", "Proxima Centauri", "Betelgeuse"],
+    "answer": "The Sun"
+    },
+    {
+    "question": "How many colors are there in a rainbow?",
+    "choices": ["5", "6", "7", "8"],
+    "answer": "7"
+    },
+    {
+    "question": "Which country is home to the kangaroo?",
+    "choices": ["South Africa", "Australia", "New Zealand", "Kenya"],
+    "answer": "Australia"
+    },
+    {
+    "question": "What is the hardest natural substance on Earth?",
+    "choices": ["Gold", "Iron", "Diamond", "Quartz"],
+    "answer": "Diamond"
+    },
+    {
+    "question": "Which gas do humans need to breathe to survive?",
+    "choices": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Oxygen"
+    },
+    {
+    "question": "How many primary colors are there?",
+    "choices": ["2", "3", "4", "5"],
+    "answer": "3"
+    },
+    {
+    "question": "What is the smallest planet in our solar system?",
+    "choices": ["Mars", "Venus", "Mercury", "Pluto"],
+    "answer": "Mercury"
+    },
+    {
+    "question": "Which fruit is traditionally used to make apple cider?",
+    "choices": ["Pear", "Apple", "Grape", "Orange"],
+    "answer": "Apple"
+    }
+]
