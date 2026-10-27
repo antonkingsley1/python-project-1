@@ -1,4 +1,3 @@
-# %%
 quiz = {
     "What is 1 + 1?": "2",
     "What color is an apple best known for?": "red"
@@ -13,5 +12,3 @@ for question, answer in quiz.items():
     else:
         print("Nope, it was", answer)
 print(f"You got {score}/{len(quiz)} ({score / len(quiz) * 100:.0f}%)")
-
-
