@@ -20,4 +20,4 @@ for q in question_bank:
 
 rounder = (score/total_questions*100)
 
-print("Test score: ", score , " or ", (f"in percent: {rounder:.2f}"))
+print("Test score: ", score , "out of ", total_questions ," or ", (f"in percent: {rounder:.2f}"))
