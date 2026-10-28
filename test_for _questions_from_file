@@ -2,7 +2,22 @@ import json
 
 with open("question_bank.json", "r", encoding="utf-8") as file:
     question_bank = json.load(file)
-    
+
+score = 0;
+total_questions = len(question_bank)
 for q in question_bank:
     print(f"Question : {q['question']}")
     print(f"Choices: {', '.join(q['choices'])}")
+    user_answer = input("Your answer: ")
+    user_input_stripper = user_answer.strip().lower()
+    question_bank_answer = q['answer'].strip().lower()
+
+    if user_input_stripper == question_bank_answer:
+        print("Correct")
+        score+=1
+    else:
+        print("Incorrect")
+
+rounder = (score/total_questions*100)
+
+print("Test score: ", score , " or ", (f"in percent: {rounder:.2f}"))
