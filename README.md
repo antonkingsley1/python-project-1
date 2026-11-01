@@ -1,6 +1,7 @@
-# python-project-1
-First project for CPSC 223P
+# Quiz Application Project
 
-Quiz Applic ation (7) :
-Ask questions, check answers, calculate scores, optionally
-load questions from file.
+Names: Ryley Chang, Luis Rivera, Anton Kingsley
+
+* Contains 3 files: addquestiontest.py, question_bank.txt, and test_for_questions_from_file.py 
+
+We built a quiz application that asks the user questions and lets them input their answers, which afterwards will output their result and lets them identify how they can improve.
