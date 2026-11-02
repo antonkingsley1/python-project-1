@@ -148,25 +148,5 @@
             "Orange"
         ],
         "answer": "Apple"
-    },
-    {
-        "question": "yes or no",
-        "choices": [
-            "yes",
-            "no",
-            "no",
-            "yes"
-        ],
-        "answer": "yes"
-    },
-    {
-        "question": "a or b",
-        "choices": [
-            "a",
-            "b",
-            "c",
-            "d"
-        ],
-        "answer": "a"
     }
 ]
